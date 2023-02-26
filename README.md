@@ -8,5 +8,5 @@ This project was designed to use HTML forms to collect information from users wh
 ![RegistrationForm](RegistrationForm.png)
 
 ## Credits
--freeCodeCamp
--Kevin Ng
+-freeCodeCamp[freeCodeCamp](https://www.freecodecamp.org/learn/)
+- Email: [kevinng3292@gmail.com](mailto:kevinng3292@gmail.com)
